@@ -1,0 +1,3 @@
+Hello everyone,
+
+I'm learning how to read a file although you can do this in pandas.
